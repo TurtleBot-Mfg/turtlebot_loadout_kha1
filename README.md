@@ -1,5 +1,7 @@
 # turtlebot_loadout_kha1
 [![Build Status](https://travis-ci.org/TurtleBot-Mfg/turtlebot_loadout_kha1.svg?branch=master)](https://travis-ci.org/TurtleBot-Mfg/turtlebot_loadout_kha1)
+[![Build Status](http://build.ros.org/buildStatus/icon?subject=Kinetic&job=Kbin_uX64__turtlebot_loadout_kha1__ubuntu_xenial_amd64__binary)](http://build.ros.org/view/Kbin_uX64/job/Kbin_uX64__turtlebot_loadout_kha1__ubuntu_xenial_amd64__binary/)
+
 
 [This package](https://github.com/TurtleBot-Mfg/turtlebot_loadout_kha1)
 enables the TurtleBot mobile robot hardware loadout via an
